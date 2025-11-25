@@ -24,7 +24,3 @@ JavaScript ile gerçek zamanlı dijital saat uygulaması.
 - Her saniye otomatik güncelleme
 - Template literals ile dinamik içerik
 - Responsive tasarım
-
-📂 Kod: github.com/gizemcodes/dijital-saat
-
-#JavaScript #WebDevelopment #FrontEnd #Coding
