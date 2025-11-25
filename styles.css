@@ -1,0 +1,26 @@
+/*temel stil ayarları*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ccb235;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/*saat kutusu*/
+.clock-container{
+    text-align: center;
+}
+
+/*saat ekranı*/
+#clock{
+    font-size: 64px;
+    margin-top: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #3a3f47;
+    display: inline-block;
+}
